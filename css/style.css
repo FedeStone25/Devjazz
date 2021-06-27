@@ -1,0 +1,83 @@
+body{
+    color:#666;
+}
+header{
+    height: 64px;
+    background:#868686;
+}
+.logo{
+    padding: 20px;
+    width: 200px;
+}
+.content{
+    padding:10px;
+}
+nav ul{
+    float: right;
+    margin-right: 20px;
+    padding:20px;
+}
+nav ul li{
+    display: inline-block;
+}
+nav ul li a{
+    padding: 10px;
+    color:white;
+    text-transform: uppercase;
+}
+.splash{
+    width: 100%;
+    background: url(../images/fondo.jpg)center center fixed;
+    height: 100vh;
+    background-size: cover;
+}
+.centrado{
+    text-align: center;
+}
+.espacio{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.col-8{
+    margin-top: 40vh;
+}
+.splash h1{
+    background: black;
+    color:white;
+    display: inline-block;
+    padding: 10px;
+    font-size: 30px;
+    border-radius:5px;
+}
+.splash .btn{
+    background:#868686;
+    color:white;
+}
+.card{
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.14) !important;
+}
+.card .btn{
+    float:right;
+}
+#letras{
+    background: #f2f2f2;
+}
+i{
+    color:#0d6efd;
+}
+.pintado{
+    background: #999;
+    padding: 2px;
+    font-size: 30px;
+    color:white;
+}
+.frase i{
+    font-size: 100px;
+}
+.frase h2{
+    padding: 30px;
+}
+.descripcion{
+    background:url(../images/dbs.png) center center fixed;
+    background-size: cover;
+}
